@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MAD_IT18257182_Lab03</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+</resources>
